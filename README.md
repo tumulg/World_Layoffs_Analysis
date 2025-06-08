@@ -198,7 +198,7 @@ FROM
 - Initial pandemic months (**Mar–May 2020**) saw a **sharp rise**, reflecting immediate economic impact.
 - Layoffs stayed **relatively low throughout 2021** but **increased significantly in late 2022 and early 2023**, pointing to ongoing economic uncertainty.
 
-### 4️⃣ Top 5 Companies with Most Layoffs Per Year
+### 5️⃣ Top 5 Companies with Most Layoffs Per Year
 
 To identify corporate patterns in layoffs, I first extracted the year from the layoff dates and aggregated total layoffs by company per year. Then, using DENSE_RANK(), I ranked companies annually and filtered the top 5 per year to reveal the biggest contributors to workforce reductions over time.
 
